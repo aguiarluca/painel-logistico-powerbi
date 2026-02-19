@@ -27,10 +27,30 @@ Para garantir a eficiência do painel sem comprometer a performance do servidor 
 
 > **Nota:** Os dados sensíveis e valores monetários foram ocultados ou alterados para preservar o sigilo comercial da operação original.
 
-### Dashboard de Operações
-![Print do Painel 1](link_da_imagem_aqui)
-*Legenda: Visão geral da produtividade e status de separação.*
+## 🖥️ Visualização do Painel
 
-### Controle de Perdas e Estoque
-![Print do Painel 2](link_da_imagem_aqui)
-*Legenda: Indicadores de perdas conhecidas e desconhecidas por período.*
+> **Nota:** Os dados sensíveis e valores monetários foram ocultados para preservar o sigilo comercial da operação.
+
+### 1. Dashboard Principal (Visão Geral)
+![Painel Logístico](images/painel_logistica.jpg)
+*Legenda: Panorama geral com indicadores de SKU, estoque e perdas totais.*
+
+### 2. Gestão de Estoque e Movimentação
+![Estoque CD](images/painel2.jpg)
+*Legenda: Detalhamento de entradas, saídas e validade dos produtos por setor.*
+
+### 3. Status de Pedidos e Transferências
+![Status Pedidos](images/painel3.jpg)
+*Legenda: Acompanhamento em tempo real do fluxo de reabastecimento das lojas.*
+
+### 4. Ciclo Operacional (Separação e Entrega)
+![Ciclo Operacional](images/painel4.jpg)
+*Legenda: Monitoramento das etapas de conferência e pedidos em trânsito.*
+
+### 5. Recebimento de Mercadorias
+![Recebimento CD](images/painel5.jpg)
+*Legenda: Controle de entrada de fornecedores e conferência de pedidos de compra.*
+
+### 6. Análise de Perdas e Ganhos (Avarias)
+![Perda x Ganho](images/painel6.jpg)
+*Legenda: Indicadores de quebras conhecidas e desconhecidas para controle de eficiência.*
